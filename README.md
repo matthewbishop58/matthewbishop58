@@ -1,9 +1,12 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h3>Where to find me</h3>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://https://www.linkedin.com/in/matthewbishop58/) [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](https://twitter.com/gordic_aleksa) [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@matthewbishop58) [<img src="https://img.shields.io/badge/ai_newsletter-%23ff6819.svg?&style=for-the-badge&logo=substack&logoColor=white" />](https://aiepiphany.substack.com/) 
 
+<h3>About me</h3>
 
+<h3>Tech stack</h3>
 <br>
 
-### Hi there 👋
 
 <!--
 **matthewbishop58/matthewbishop58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
