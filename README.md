@@ -5,6 +5,8 @@
 </p>
 <h3>My CodeWars Rank</h3>
 ![image](https://www.codewars.com/users/matthewbishop58/badges/large)
+![image](https://www.codewars.com/users/uyncis/badges/large)
+
 <br>
 <h3>Tech stack</h3>
 
