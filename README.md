@@ -8,7 +8,7 @@
 <hr>
 
 <h3>Tech stack</h3>
-
+[![Profile badge](https://www.codewars.com/users/hugmanrique/badges/large)](https://www.codewars.com/users/hugmanrique)
 
 
 <!--
