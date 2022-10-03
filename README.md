@@ -10,7 +10,7 @@
 <h3>Tech stack</h3>
 [![Profile badge](https://www.codewars.com/users/hugmanrique/badges/large)](https://www.codewars.com/users/hugmanrique)
 
-![image](https://www.codewars.com/users/uyncis/badges/large)
+![image](https://www.codewars.com/users/matthewbishop58/badges/large)
 <!--
 **matthewbishop58/matthewbishop58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
